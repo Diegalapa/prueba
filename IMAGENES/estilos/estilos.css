@@ -1,0 +1,24 @@
+.padre{
+    height: 200px;
+    width: 200px;
+    background-color: aliceblue;
+    margin-bottom: 5px;
+    border: 3px;
+    text-align: center;
+}
+div{
+    height: 200px;
+    width: 200px;
+    background-color: beige;
+    margin-bottom: 5px;
+    text-align: center;
+}
+aside{
+    height: 200px;
+    width: 200px;
+    background-color: antiquewhite;
+    text-align: center;
+}
+img{
+    text-align: center;
+}
